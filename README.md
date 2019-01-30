@@ -14,7 +14,7 @@ with feature documentation available [here](https://www.kaggle.com/heesoo37/120-
 In the exploration, I looked for trends in the mean age of the athletes over
 time, and I selected findings that seemed relevant to that in some way, even
 if indirectly. I found that the mean age of Olympic athletes mostly has a
-downward trend for the first ~80 years, and then, contrary to my expections,
+downward trend for the first ~80 years, and then, contrary to my expectations,
 has an upward trend until 2016. Those later mean age increases have been more
 dramatic for females than for males (closing much of the earlier age gap with
 men), and even more so especially for female non-medalists.
@@ -61,18 +61,29 @@ Since around 1960, medalists have generally been older than non-medalists.
 The mean age trends vary widely among the various sports, but most have at
 least some slight increase in mean age in modern times for both sexes.
 
+
 ## List of Resources
 
-https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/downloads/120-years-of-olympic-history-athletes-and-results.zip/2
+Data Set
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/home
+
+General Olympic Info Resources
+https://www.olympic.org/  
+https://en.wikipedia.org/
+
+Understanding Specific Olympics
+https://en.wikipedia.org/wiki/Figure_skating_at_the_1908_Summer_Olympics  
+https://en.wikipedia.org/wiki/Figure_skating_at_the_1920_Summer_Olympics  
 https://www.sports-reference.com/olympics/winter/1924/ALP/
-https://en.wikipedia.org/wiki/Figure_skating_at_the_1920_Summer_Olympics
-https://en.wikipedia.org/wiki/Figure_skating_at_the_1908_Summer_Olympics
+
+More about Amateurism
+https://pc2018.com/amateurism-in-the-olympics/  
+https://sports.vice.com/en_us/article/gvaqdm/for-love-or-for-money-a-history-of-amateurism-in-the-olympic-games  
+https://www.uta.edu/english/sla/br170110.html
+
+Sex Differences
+https://www.quora.com/Athletically-do-female-and-male-athletes-peak-at-different-ages
+
+Programming Resources Consulted
 https://stackoverflow.com/a/31302882/576101
 https://stackoverflow.com/a/52184614/576101
-https://www.quora.com/Athletically-do-female-and-male-athletes-peak-at-different-ages
-https://pc2018.com/amateurism-in-the-olympics/
-https://sports.vice.com/en_us/article/gvaqdm/for-love-or-for-money-a-history-of-amateurism-in-the-olympic-games
-https://www.uta.edu/english/sla/br170110.html
-https://www.olympic.org/
-https://en.wikipedia.org/
