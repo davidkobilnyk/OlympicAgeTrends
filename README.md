@@ -85,5 +85,5 @@ Sex Differences
 https://www.quora.com/Athletically-do-female-and-male-athletes-peak-at-different-ages
 
 Programming Resources Consulted  
-https://stackoverflow.com/a/31302882/576101
+https://stackoverflow.com/a/31302882/576101  
 https://stackoverflow.com/a/52184614/576101
