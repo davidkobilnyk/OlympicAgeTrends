@@ -64,26 +64,26 @@ least some slight increase in mean age in modern times for both sexes.
 
 ## List of Resources
 
-Data Set
+Data Set  
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/home
 
-General Olympic Info Resources
+General Olympic Info Resources  
 https://www.olympic.org/  
 https://en.wikipedia.org/
 
-Understanding Specific Olympics
+Understanding Specific Olympics  
 https://en.wikipedia.org/wiki/Figure_skating_at_the_1908_Summer_Olympics  
 https://en.wikipedia.org/wiki/Figure_skating_at_the_1920_Summer_Olympics  
 https://www.sports-reference.com/olympics/winter/1924/ALP/
 
-More about Amateurism
+More about Amateurism  
 https://pc2018.com/amateurism-in-the-olympics/  
 https://sports.vice.com/en_us/article/gvaqdm/for-love-or-for-money-a-history-of-amateurism-in-the-olympic-games  
 https://www.uta.edu/english/sla/br170110.html
 
-Sex Differences
+Sex Differences  
 https://www.quora.com/Athletically-do-female-and-male-athletes-peak-at-different-ages
 
-Programming Resources Consulted
+Programming Resources Consulted  
 https://stackoverflow.com/a/31302882/576101
 https://stackoverflow.com/a/52184614/576101
